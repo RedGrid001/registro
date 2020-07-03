@@ -1,0 +1,38 @@
+.logo-container {
+    left: 50px;
+    position: absolute;
+    top: 20px;
+    z-index: 3;
+}
+
+.logo-container .logo {
+    overflow: hidden;
+    border-radius: 50%;
+    border: 1px solid #333333;
+    width: 60px;
+    float: left;
+    height: 60px;
+    margin-left: 10px;
+}
+
+.brand {
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    margin-inline-start: auto;
+    text-align: center;
+    font-size: xx-large;
+    position: absolute;
+    top: 20px;
+    width: 30px;
+    height: 10px;
+    margin-left: 75px;
+}
+
+.logo-container {
+    font-size: 18px;
+    color: #FFFFFF;
+    line-height: 20px;
+    float: left;
+    margin-left: 1px;
+    margin-top: 10px;
+    width: 200px;
+}
